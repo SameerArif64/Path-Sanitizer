@@ -8,4 +8,4 @@ A simple Python module to replace restricted characters in folder names with sho
 
 ## Installation
 ```bash
-pip install filenamesanitizer
+pip install git+https://github.com/SameerArif64/Path-Sanitizer
